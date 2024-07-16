@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+pmdarima
+yfinance
+tensorflow
+keras
+beautifulsoup4
+requests
+jupyter
+streamlit
